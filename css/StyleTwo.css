@@ -6,7 +6,9 @@ section {
   max-width: 800px;
   margin: 0 auto;
 }
-
+a{
+  text-decoration: none;
+}
 h1 {
   color: #333333;
 }
