@@ -1,10 +1,13 @@
 DriveNow 🚗
 DriveNow is a responsive static website designed for a car rental service. Built with HTML, CSS, and Bootstrap, it offers users an intuitive interface to explore and book rental cars.
 
+
 🌐 Live Demo
-You can view the live website here: https://ebrahim-mostafa.github.io/DriveNow
+You can view the live website here: https://ebrahem-mostafa.github.io/DriveNow/
+
 
 📁 Project Structure
+
 index.html – Homepage
 
 ourCars.html – Browse available cars
